@@ -12,4 +12,3 @@ def write_file(filename="", text=""):
     Returns:
         The number of characters written.
     """
-
